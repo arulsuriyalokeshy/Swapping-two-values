@@ -18,6 +18,7 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+![image](https://github.com/arulsuriyalokeshy/Swapping-two-values/assets/149130151/885b5b31-807e-4ed8-840f-e2758fe28e83)
 
 
 
