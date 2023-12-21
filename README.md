@@ -30,7 +30,8 @@ x,y=y,x
 print("Swapped values are: {} {}".format(x,y))
 ```
 ## OUTPUT:
-![maths 1](https://github.com/arulsuriyalokeshy/Swapping-two-values/assets/149130151/8bba8093-281a-4899-a79d-50495fd0d6ce)
+![maths  1](https://github.com/arulsuriyalokeshy/Swapping-two-values/assets/149130151/6feebbf0-71dc-400a-a3bc-ac0ed4a54437)
+
 
 
 
